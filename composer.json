@@ -1,0 +1,21 @@
+{
+    "name": "zero-mmx/mrbac",
+    "description": "like srbac for yii1. this is mrbac for yii2; rbac manager ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","rbac","mrbac"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "zero_mmx",
+            "email": "303665527@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mrbac\\": ""
+        }
+    }
+}
