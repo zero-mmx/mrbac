@@ -10,8 +10,13 @@
             "email": "303665527@qq.com"
         }
     ],
+	"support": {  
+     	"source": "https://github.com/zero-mmx/mrbac"  
+	},
+	"minimum-stability": "stable", 
     "require": {
-        "yiisoft/yii2": "*"
+         "php": ">=5.4.0",  
+         "yiisoft/yii2": ">=2.0.4"  
     },
     "autoload": {
         "psr-4": {
