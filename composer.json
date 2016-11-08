@@ -17,11 +17,5 @@
         "psr-4": {
             "mrbac\\": ""
         }
-    },
-	"repositories":[
-		{
-			"type": "git",
-			"url": "https://github.com/zero-mmx/mrbac"
-		}
-	]
+    }
 }
