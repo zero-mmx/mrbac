@@ -89,3 +89,20 @@ step5: over
 
 you can open :http:/**?r=mrbac/authitem/manager  or http:/**/mrbac/authitem/manager 到权限管理url
 
+
+
+if you do not want to use composer require;
+
+you can add  :
+
+$config =[
+   ...
+  'aliases' => [
+		...
+        '@mrbac' => '@vendor/zero-mmx/mrbac',
+		...
+    ],
+	...
+]
+
+
