@@ -10,6 +10,9 @@
             "email": "303665527@qq.com"
         }
     ],
+	"support": {  
+     	"source": "https://github.com/zero-mmx/mrbac"  
+	},  
     "require": {
         "yiisoft/yii2": "*"
     },
