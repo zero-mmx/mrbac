@@ -6,17 +6,13 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "zero_mmx",
+            "name": "zero-mmx",
             "email": "303665527@qq.com"
         }
     ],
-	"support": {  
-     	"source": "https://github.com/zero-mmx/mrbac"  
-	},
-	"minimum-stability": "dev", 
+	"minimum-stability": "stable",
     "require": {
-         "php": ">=5.4.0",  
-         "yiisoft/yii2": ">=2.0.4"  
+         "yiisoft/yii2": "*"  
     },
     "autoload": {
         "psr-4": {
